@@ -1,0 +1,19 @@
+body{
+    background-color: #E8ECEF;
+}
+.centered{
+    padding-top: 200px;
+    text-align: center;
+}
+.secret-text{
+    text-align: center;
+    font-size: 2rem;
+    color: #fff;
+    background-color: #000;
+}
+.custom-icon{
+    font-size: 5rem; /* Much larger than fa-10x */
+    color: #000;
+    margin-bottom: 20px; /* Add space below the icon */
+    transform: scale(1.5); /* Further increase size */
+}
